@@ -1,5 +1,5 @@
 // this is my cards header file where i create my weapons name discription type combat style
-// the power level of the card by random
+// a the power level of the card by random
 
 #ifndef CARD_H
 #define CARD_H

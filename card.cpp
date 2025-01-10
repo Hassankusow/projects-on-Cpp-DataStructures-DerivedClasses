@@ -1,6 +1,6 @@
 #include "cards.h"
 #include <cstdlib>
-// my constructor defult and copy constructors
+//a  my constructor defult and copy constructors
 Card::Card() : name(""), description(""), points(0) {}
 Card::Card(const std::string& name, const std::string& description) : name(name), description(description), points(0) {}
 Card::Card(const Card& other) : name(other.name), description(other.description), points(other.points) {}

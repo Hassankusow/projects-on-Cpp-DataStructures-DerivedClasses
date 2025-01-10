@@ -1,6 +1,6 @@
 // deck.tpp
 
-// Node class constructor
+// a Node class constructor
 template <typename T>
 Node<T>::Node(T* card) : card(card), prev(nullptr), next(nullptr) {}
 

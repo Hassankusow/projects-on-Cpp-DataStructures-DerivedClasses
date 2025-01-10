@@ -12,7 +12,7 @@ int main() {
     Card* player1Card = nullptr; // Store player 1's drawn card
     Card* player2Card = nullptr; // Store player 2's drawn card
     int choice;
-// this example for the user to know what type of game it is.
+// this is example for the user to know what type of game it is.
 std::cout << "\n--- Example of Input ---\n";
 std::cout << "\nEnter weapon name: Sword of Ares\n";
 std::cout << "\nEnter weapon description: The legendary sword of the Fire Lord\n";

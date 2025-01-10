@@ -1,7 +1,7 @@
 // deck.h
 #ifndef DECK_H
 #define DECK_H
-// my deck.h file where i use a doubly link list and for my deck class where i store multiple cards to dual
+//a  my deck.h file where i use a doubly link list and for my deck class where i store multiple cards to dual
 #include <iostream>
 
 template <typename T>
